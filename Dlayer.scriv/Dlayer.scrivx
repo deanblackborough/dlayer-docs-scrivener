@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.7.0" Device="Surface" Modified="2017-02-21 00:17:31 +0000" ModID="8C2C9C11-30D2-4A88-BC41-D4BD2142870B">
+    <Binder>
+        <BinderItem ID="0" UUID="BE65D719-E8F8-4472-97BE-F508248358DD" Created="2017-02-20 23:42:05 +0000" Modified="2017-02-20 23:42:05 +0000" Type="DraftFolder">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" UUID="45AD0AE8-8018-4105-B78A-616E287C6B06" Created="2017-02-20 23:42:05 +0000" Modified="2017-02-21 00:09:28 +0000" Type="Text">
+                    <Title>Overview</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>354,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="4" UUID="B09773CB-55BD-4C14-8419-E1AF91C7B3DF" Created="2017-02-20 23:52:07 +0000" Modified="2017-02-21 00:17:22 +0000" Type="Text">
+                    <Title>Designers</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>173,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="7A6272E6-F600-47C5-A592-D6B16C51F2D9" Created="2017-02-20 23:42:05 +0000" Modified="2017-02-20 23:42:05 +0000" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" UUID="DE804105-D0A5-47B5-8726-73C789471105" Created="2017-02-20 23:42:05 +0000" Modified="2017-02-20 23:42:05 +0000" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">Concept</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">N/A</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="202" Characters="1200" Date="2017-02-20 23:42:06 +0000"/>
+    </ProjectTargets>
+    <Collections>
+        <Collection Type="Binder" ID="861DE393-63AB-4F77-BEDF-3CD882E2B2C4" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="A69BD0C6-CBF0-486C-ABFB-AE2F4C9E33D5" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <PrintSettings PaperType="A4" LeftMargin="9.35435" RightMargin="9.35435" TopMargin="9.35435" BottomMargin="9.35435" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>
