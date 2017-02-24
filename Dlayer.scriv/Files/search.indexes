@@ -20,5 +20,9 @@ To date, I have planned seven designers; two are in the Dlayer demo, five are in
 
 Excluding the Website Manager and Data Manager, each of the designers shows a visually accurate representation of the current design/item.</Text>
         </Document>
+        <Document ID="5">
+            <Title>Form Builder</Title>
+            <Text>The Form Builder</Text>
+        </Document>
     </Documents>
 </SearchIndexes>
